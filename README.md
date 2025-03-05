@@ -1,6 +1,6 @@
 # What is this Repository?
 
-This is an Obsidian Vault for my Pathfinder 2E campaign which takes places from 2025-03-09 till ████-██-██.
+This is an Obsidian Vault for my Pathfinder 2E campaign which takes places from 2025-03-09 till ████-██-██. It contains all the rules from Pathfinder 2E, my campaign notes, and Emzar's Booklet.
 
 # What is Emzar's Booklet?
 
