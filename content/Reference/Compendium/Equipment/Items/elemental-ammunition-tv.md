@@ -1,0 +1,43 @@
+---
+obsidianUIMode: preview
+cssclass: pf2e,pf2e-item
+tags:
+- compendium/src/pf2e/tv
+- item/category/consumable/
+- trait/alchemical
+- trait/consumable
+- trait/splash
+aliases: ["Elemental Ammunition"]
+---
+# Elemental Ammunition *Item 1+*  
+[alchemical](alchemical.md "Alchemical Item Trait")  [consumable](consumable.md "Consumable Item Trait")  [splash](splash.md "Splash Weapon Trait")  
+
+- **Ammunition** any
+- **Activate** [Interact](interact.md)
+
+When activated, the reservoir of alchemical reagents in elemental ammunition atomizes on impact, dealing [persistent acid](conditions.md#Persistent%20Damage), cold, electricity, fire, or poison damage to the target and splash damage in addition to the damage the attack normally deals. Each damage type requires a different formula, and the ammunition gains a trait matching the damage type.
+
+---
+
+### Variants
+
+#### lesser *Item 1*
+
+- **Price**: 3 gp
+
+The ammunition deals 1 [persistent damage](conditions.md#Persistent%20Damage) and 1 splash damage.
+
+#### moderate *Item 5*
+
+- **Price**: 21 gp
+
+The ammunition deals `2d4` [persistent damage](conditions.md#Persistent%20Damage) and 2 splash damage.
+
+#### greater *Item 11*
+
+- **Price**: 210 gp
+
+The ammunition deals `3d4` [persistent damage](conditions.md#Persistent%20Damage) and 3 splash damage.
+
+---
+*Source: Treasure Vault p. 42*
