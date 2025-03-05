@@ -50,6 +50,16 @@ a.internal {
 .page-title a {
     font-family: 'ASOMTAVR' !important;
     font-size: 3rem; 
+    @media (max-width: 800px) {
+        font-size: 1.5rem;
+    }
+}
+
+div .sidebar {
+    @media (max-width: 800px) {
+      padding-bottom: 20px !important;
+      border-bottom: 1px solid rgba(143, 159, 169, 0.15);
+    }
 }
 
 // body,
