@@ -1,18 +1,18 @@
-# Quartz v4
+# What is this Repository?
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This is an Obsidian Vault for my Pathfinder 2E campaign which takes places from 2025-03-09 till ████-██-██.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+# What is Emzar's Booklet?
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+It is a public website for the Pathfinder 2E campaign. It contains relevant world information for the players, as well as all of the session recaps.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+# How can I contribute?
 
-## Sponsors
+The static website is generated using Quartz 4.0 and hosted with GitHub Pages. To contribute, you can do the following things:
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+1. Download the repository
+2. Run `npm i` in the repository
+3. Open the "content" folder with Obsidian.md
+4. Add desired content in the "Emzar-Booklet" folder
+5. Run `npx quartz sync`
+6. Wait
