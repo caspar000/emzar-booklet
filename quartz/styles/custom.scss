@@ -26,16 +26,44 @@
   font-display: swap;
 }
 
+@font-face {
+  font-family: 'BARATA';
+  src: url('static/fonts/BARATA.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 
 h1,
 h2,
 h3,
 h4,
 h5,
-h6,
-thead {
+h6 {
     font-family: 'AAGREMYN';
-    font-size: 5rem;
+    // font-size: 5rem;
+}
+
+h1 {
+  font-size: 3rem !important;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+thead {
+  font-family: 'MTAVRULI';  
+  white-space: nowrap;
 }
 
 .folder-button, a {
@@ -60,6 +88,15 @@ div .sidebar {
       padding-bottom: 20px !important;
       border-bottom: 1px solid rgba(143, 159, 169, 0.15);
     }
+}
+
+blockquote {
+  border: 0 !important;
+  font-family: 'BARATA';
+  font-size: 2rem;
+  p {
+    line-height: 3rem;
+  }
 }
 
 // body,
